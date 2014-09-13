@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://lifematrix.github.io
+title: Life Matrix 
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Steven Liu 
 simple_search: https://www.google.com/search
 description:
 
